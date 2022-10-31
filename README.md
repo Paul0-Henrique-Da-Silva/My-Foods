@@ -1,4 +1,4 @@
-# 🥘 Projeto MyFoods
+# 🥘 Projeto My Foods
 
 O My Foods é um aplicativo de receitas completo, através dessa aplicação o usuário é capaz de:
 
